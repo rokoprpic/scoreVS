@@ -1,0 +1,12 @@
+.winner {
+  color: green;
+}
+
+.loser {
+  color: red;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 20px;
+}
